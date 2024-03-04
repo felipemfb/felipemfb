@@ -11,7 +11,6 @@ Currently, I am in the 3rd semester of my undergraduate degree, learning topics 
 ## Stats
 ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=fmfbCIN&show_icons=true&theme=radical)
 <script src="bower_components/webcomponentsjs/webcomponents.min.js"></script>
-<link rel="import" href="bower_components/flag-icon/flag-icon.html">
 
 ## Languages that I speak
 <div style="display: inline_block">
