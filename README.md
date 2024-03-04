@@ -54,4 +54,4 @@ Currently, I am in the 3rd semester of my undergraduate degree, learning topics 
  If you want to talk about any extra topic, let's connect on my other pages:
 </br></br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-mateus-falc%C3%A3o-barreto-b94413286/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fmfbCIN?tab=following)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fmfbCIN)
