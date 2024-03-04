@@ -6,11 +6,12 @@ Hi everyone! My name is Felipe Barreto and I am student of computer engineering 
 <br/>
 
 ## About me
-Currently, I am in the 3rd semester of my undergraduate degree, learning topics as how each part of the computer communicates with each other so the machine may function, from the Operational System to the CPU, aswell as physics and calculus. Also, I am also developing my skills in other areas, for example...
+Currently, I am in the 3rd semester of my undergraduate degree, learning topics as how each part of the computer communicates with each other so the machine may function, from the Operational System to the CPU, aswell as physics and calculus. Also, I am developing my skills in other areas, for example...
 
 ## Stats
 ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=fmfbCIN&show_icons=true&theme=radical)
 <script src="bower_components/webcomponentsjs/webcomponents.min.js"></script>
+<link rel="import" href="bower_components/flag-icon/flag-icon.html">
 
 ## Languages that I speak
 <div style="display: inline_block">
@@ -25,15 +26,15 @@ Currently, I am in the 3rd semester of my undergraduate degree, learning topics 
 <div style="display: inline_block"><br/>
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"
 >
-<img align = "center" alt = "html5" src ="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+<img align = "center" alt = "html5" src ="    https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </div><br/>
 
 ## Development Environments that I am used to
 <div style="display: inline_block"><br/>
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"
 >
-<img align = "center" alt = "html5" src ="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-<img align = "center" alt = "html5" src ="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black">
+<img align = "center" alt = "html5" src ="        https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+<img align = "center" alt = "html5" src ="           https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black">
 </div><br/>
 
 ## Programming Languages that I already worked with
