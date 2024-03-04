@@ -6,7 +6,7 @@ Hi everyone! My name is Felipe Barreto and I am student of computer engineering 
 <br/>
 
 ## About me
-Currently, I am in the 3rd semester of my undergraduate degree, learning topics as how each part of the computer communicates with each other so the machine may function, from the Operational System to the CPU, aswell as physics and calchulus. Also, I am also developing my skills in other areas, for example...
+Currently, I am in the 3rd semester of my undergraduate degree, learning topics as how each part of the computer communicates with each other so the machine may function, from the Operational System to the CPU, aswell as physics and calculus. Also, I am also developing my skills in other areas, for example...
 
 ## Stats
 ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=fmfbCIN&show_icons=true&theme=radical)
