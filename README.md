@@ -21,7 +21,7 @@ Currently, I am in the 4th semester of my undergraduate degree, learning topics 
 <img align = "center" alt = "html5" src ="https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/32/flag-france2x.png"> - French (Learning)
 <br/>
 
-## Development Environments that I am used to
+## Development Environments that I recently used
 <div style="display: inline_block"><br/>
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"
 >
@@ -42,6 +42,7 @@ Currently, I am in the 4th semester of my undergraduate degree, learning topics 
 ## Latest Project
 [RISC-V CPU ISA - SystemVerilog](https://github.com/fmfbCIN/Projeto-RISC-V)<br/>
 [Spaceship Game - C](https://github.com/fmfbCIN/Jogo_IP)<br/>
+[Thunderflix - SQL](https://github.com/fmfbCIN/thunderflix)<br/>
 
 ## Connect with Me
  If you want to talk about any extra topic, let's connect on my other pages:
