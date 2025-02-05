@@ -9,7 +9,7 @@ Hi everyone! My name is Felipe Barreto and I am student of computer engineering 
 Currently, I am in the 4th semester of my undergraduate degree, learning topics as how to develop a database and advanced topics about hardware functioning, statistics, electrical physics and ODE, as well as helping as teaching assistant in the disciplines called Digital Systems (logic gates and flip-flops) and Software Intrastructure (threads and O.S. functioning). Also, I am developing my skills in other areas, for example...
 
 ## Stats
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipemfbCIN&show_icons=true&theme=radical)
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipemfb&show_icons=true&theme=radical)
 <link rel="import" href="bower_components/flag-icon/flag-icon.html">
 
 ## Languages that I speak
@@ -40,12 +40,12 @@ Currently, I am in the 4th semester of my undergraduate degree, learning topics 
 </div><br/>
 
 ## Latest Project
-[RISC-V CPU ISA - SystemVerilog](https://github.com/felipemfbCIN/Projeto-RISC-V)<br/>
-[Spaceship Game - C](https://github.com/felipemfbCIN/Jogo_IP)<br/>
-[Thunderflix - SQL](https://github.com/felipemfbCIN/thunderflix)<br/>
+[RISC-V CPU ISA - SystemVerilog](https://github.com/felipemfb/Projeto-RISC-V)<br/>
+[Spaceship Game - C](https://github.com/felipemfb/Jogo_IP)<br/>
+[Thunderflix - SQL](https://github.com/felipemfb/thunderflix)<br/>
 
 ## Connect with Me
  If you want to talk about any extra topic, let's connect on my other pages:
 </br></br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-mateus-falc%C3%A3o-barreto-b94413286/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/felipemfbCIN)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/felipemfb)
