@@ -23,12 +23,12 @@ Currently, I am in the 7th semester of my undergraduate degree, learning topics 
 <br/>
 
 ## Languages that I worked before
-<div style="display: inline_block; gap: 10px;"><br/>
- <img align = "center" alt = "html5" src ="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-<img align = "center" alt = "html5" src ="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-<img align = "center" alt = "html5" src ="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-<img align = "center" alt = "html5" src ="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img align = "center" alt = "html5" src ="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+<div style="display: inline_block"><br/>
+<img style="margin: 5px" align = "center" alt = "html5" src ="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+<img style="margin: 5px" align = "center" alt = "html5" src ="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img style="margin: 5px" align = "center" alt = "html5" src ="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+<img style="margin: 5px" align = "center" alt = "html5" src ="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img style="margin: 5px" align = "center" alt = "html5" src ="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 </div><br/>
 
