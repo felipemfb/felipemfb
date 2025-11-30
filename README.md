@@ -9,10 +9,6 @@ Hi everyone! My name is Felipe Barreto and I am student of computer engineering 
 ## About me
 Currently, I am in the 7th semester of my undergraduate degree, learning topics as machine learning, computer vision and virtual machines. Also, I am developing my skills in other areas, for example...
 
-## Stats
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipemfb&show_icons=true&theme=radical)
-<link rel="import" href="bower_components/flag-icon/flag-icon.html">
-
 ## Languages that I speak
 <div style="display: inline_block">
 <img align = "center" alt = "html5" src ="https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/32/flag-portugal2x.png"> - Portuguese (native)
