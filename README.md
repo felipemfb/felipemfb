@@ -22,7 +22,15 @@ Currently, I am in the 7th semester of my undergraduate degree, learning topics 
 <img align = "center" alt = "html5" src ="https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/32/flag-france2x.png"> - French (DELF B1)
 <br/>
 
-## Languages that I worked before
+## My GitHub Stats
+
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=felipemfb&show_icons=true&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemfb&layout=compact&theme=tokyonight"/>
+</div>
+
+
+## Programming Languages that I worked before
 <div style="display: inline_block"><br/>
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
