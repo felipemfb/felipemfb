@@ -24,11 +24,12 @@ Currently, I am in the 7th semester of my undergraduate degree, learning topics 
 
 ## Languages that I worked before
 <div style="display: inline_block"><br/>
-<img style="margin: 5px" align = "center" alt = "html5" src ="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-<img style="margin: 5px" align = "center" alt = "html5" src ="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-<img style="margin: 5px" align = "center" alt = "html5" src ="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-<img style="margin: 5px" align = "center" alt = "html5" src ="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img style="margin: 5px" align = "center" alt = "html5" src ="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+<img align = "center" alt = "html5" src ="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+<img align = "center" alt = "html5" src ="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img align = "center" alt = "html5" src ="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+<img align = "center" alt = "html5" src ="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img align = "center" alt = "html5" src ="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<img align = "center" alt = "html5" src ="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 </div><br/>
 
@@ -37,7 +38,6 @@ Currently, I am in the 7th semester of my undergraduate degree, learning topics 
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-<img align = "center" alt = "html5" src ="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
@@ -50,7 +50,6 @@ Currently, I am in the 7th semester of my undergraduate degree, learning topics 
 <div style="display: inline_block"><br/>
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-<img align = "center" alt = "html5" src ="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/pnpm-yellow?style=for-the-badge&logo=pnpm&logoColor=white">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
@@ -70,6 +69,7 @@ Currently, I am in the 7th semester of my undergraduate degree, learning topics 
 <div style="display: inline_block"><br/>
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+<img align = "center" alt = "html5" src ="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
@@ -92,7 +92,7 @@ Currently, I am in the 7th semester of my undergraduate degree, learning topics 
 ## Connect with Me
  If you want to talk about any extra topic, let's connect on my other pages:
 </br></br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-mateus-falc%C3%A3o-barreto-b94413286/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/felipemfb)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-mateus-falc%C3%A3o-barreto-b94413286/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@felipemfb)
 
