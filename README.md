@@ -1,10 +1,10 @@
 # Hello World!👋
 Hi everyone! My name is Felipe Barreto and I am student of computer engineering in the Universidade Federal de Pernambuco - UFPE (Federal University of Pernambuco) and international student in the Aix-Marseille Université - AMU (Aix-Marseille University).
 
-<div style="display: inline_block">
-<img align = "center" alt = "html5" src ="https://portal.cin.ufpe.br/wp-content/uploads/2020/07/Horizontal-Vermelho-Logotipo-CIn-UFPE.png">
-<br/>
-<img align = "center" alt = "html5" src = "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Univ_Aix-Marseille_-_Polytech.svg/1280px-Univ_Aix-Marseille_-_Polytech.svg.png">
+<div style="display: flex; align-items: center; gap: 20px; ">
+  <img style="width: 50%;" src="https://portal.cin.ufpe.br/wp-content/uploads/2020/07/Horizontal-Vermelho-Logotipo-CIn-UFPE.png">
+  <img style="width: 40%;" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Univ_Aix-Marseille_-_Polytech.svg/1280px-Univ_Aix-Marseille_-_Polytech.svg.png">
+</div>
 
 ## About me
 Currently, I am in the 7th semester of my undergraduate degree, learning topics as machine learning, computer vision and virtual machines. Also, I am developing my skills in other areas, for example...
@@ -20,15 +20,18 @@ Currently, I am in the 7th semester of my undergraduate degree, learning topics 
 
 ## My GitHub Stats
 
-<div>
-  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=felipemfb&theme=dracula" width="51%" />
-  <img align="center" src="https://github-readme-stats-matin.vercel.app/api?username=felipemfb&layout=compact&show_icons=true&theme=dracula" alt="felipemfb github-readme-stats" width="48%" />
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=felipemfb&theme=dracula" width="48%" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);" />
+  <img src="https://github-readme-stats-matin.vercel.app/api?username=felipemfb&layout=compact&show_icons=true&theme=dracula" width="45.3%" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);" />
 </div>
+
 <br />
-<div>
-  <img align="center" src="https://github-readme-stats-matin.vercel.app/api/top-langs/?username=felipemfb&layout=compact&theme=dracula" alt="felipemfb github readme top-langs" width="39%" />
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=felipemfb&theme=dracula" alt="felipemfb github readme activity graph" width="60%" />
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats-matin.vercel.app/api/top-langs/?username=felipemfb&layout=compact&theme=dracula" width="45%" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=felipemfb&theme=dracula" width="49%" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);" />
 </div>
+
 
 ## Programming Languages that I worked before
 <div style="display: inline_block"><br/>
@@ -36,7 +39,6 @@ Currently, I am in the 7th semester of my undergraduate degree, learning topics 
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img align = "center" alt = "html5" src ="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 </div><br/>
@@ -44,23 +46,17 @@ Currently, I am in the 7th semester of my undergraduate degree, learning topics 
 ## Environments that I used before
 <div style="display: inline_block"><br/>
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
-<img align = "center" alt = "html5" src ="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
-<img align = "center" alt = "html5" src ="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
-<img align = "center" alt = "html5" src ="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white">
 </div><br/>
 
 ## Frameworks that I already used before
-### Software Engineering
+### Frontend
 <div style="display: inline_block"><br/>
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-<img align = "center" alt = "html5" src ="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
-<img align = "center" alt = "html5" src ="https://img.shields.io/badge/pnpm-yellow?style=for-the-badge&logo=pnpm&logoColor=white">
-<img align = "center" alt = "html5" src ="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white">
@@ -68,26 +64,42 @@ Currently, I am in the 7th semester of my undergraduate degree, learning topics 
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+</div><br/>
+
+### Backend
+<div style="display: inline_block"><br/>
+<img align = "center" alt = "html5" src ="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<img align = "center" alt = "html5" src ="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
+</div><br/>
+
+## DevOps
+<div style="display: inline_block"><br/>
+<img align = "center" alt = "html5" src ="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+<img align = "center" alt = "html5" src ="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+<img align = "center" alt = "html5" src ="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
+<img align = "center" alt = "html5" src ="https://img.shields.io/badge/pnpm-yellow?style=for-the-badge&logo=pnpm&logoColor=white">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">
+<img align = "center" alt = "html5" src ="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white">
 </div><br/>
 
 ## DataOps
 <div style="display: inline_block"><br/>
+<img align = "center" alt = "html5" src ="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-<img align = "center" alt = "html5" src ="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
 </div><br/>
 
-## Simulation
+## Others
 <div style="display: inline_block"><br/>
+<img align = "center" alt = "html5" src ="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/RAYLIB-FFFFFF?style=for-the-badge&logo=raylib&logoColor=black">
-
+<img align = "center" alt = "html5" src ="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white">
 </div><br/>
 
 </div><br/>
