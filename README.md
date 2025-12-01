@@ -20,10 +20,7 @@ Currently, I am in the 7th semester of my undergraduate degree, learning topics 
 
 ## My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felipemfb&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemfb&layout=compact&theme=tokyonight" height="150"/>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=felipemfb&theme=dracula)](https://git.io/streak-stats)
 
 ## Programming Languages that I worked before
 <div style="display: inline_block"><br/>
