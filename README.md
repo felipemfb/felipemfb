@@ -20,7 +20,15 @@ Currently, I am in the 7th semester of my undergraduate degree, learning topics 
 
 ## My GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=felipemfb&theme=dracula)](https://git.io/streak-stats)
+<div>
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=felipemfb&theme=react" width="51%" />
+  <img align="center" src="https://github-readme-stats-matin.vercel.app/api?username=felipemfb&layout=compact&show_icons=true&theme=react" alt="MatinT-SA github-readme-stats" width="48%" />
+</div>
+<br />
+<div>
+  <img align="center" src="https://github-readme-stats-matin.vercel.app/api/top-langs/?username=felipemfb&layout=compact&theme=react" alt="MatinT-SA github readme top-langs" width="39%" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=felipemfb&theme=merko" alt="MatinT-SA github readme activity graph" width="60%" />
+</div>
 
 ## Programming Languages that I worked before
 <div style="display: inline_block"><br/>
