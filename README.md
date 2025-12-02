@@ -34,27 +34,30 @@ Currently, I am in the 7th semester of my undergraduate degree, learning topics 
 
 
 ## Programming Languages that I worked before
-<div style="display: inline_block"><br/>
+<div style="display: inline_block">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-</div><br/>
+</div>
 
 ## Environments that I used before
-<div style="display: inline_block"><br/>
+<div style="display: inline_block">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
-</div><br/>
+</div>
 
 ## Frameworks that I already used before
-### Frontend
-<div style="display: inline_block"><br/>
+
+### Software Engineering
+
+#### Frontend
+<div style="display: inline_block">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
@@ -64,16 +67,16 @@ Currently, I am in the 7th semester of my undergraduate degree, learning topics 
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-</div><br/>
+</div>
 
-### Backend
-<div style="display: inline_block"><br/>
+#### Backend
+<div style="display: inline_block">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
-</div><br/>
+</div>
 
-### DevOps
-<div style="display: inline_block"><br/>
+#### DevOps
+<div style="display: inline_block">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
@@ -82,10 +85,11 @@ Currently, I am in the 7th semester of my undergraduate degree, learning topics 
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white">
-</div><br/>
+</div>
 
 ### DataOps
-<div style="display: inline_block"><br/>
+
+<div style="display: inline_block">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
@@ -93,21 +97,22 @@ Currently, I am in the 7th semester of my undergraduate degree, learning topics 
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
-</div><br/>
+</div>
 
 ### Others
-<div style="display: inline_block"><br/>
+
+<div style="display: inline_block">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/RAYLIB-FFFFFF?style=for-the-badge&logo=raylib&logoColor=black">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white">
-</div><br/>
+</div>
 
-</div><br/>
+</div>
 
 ## Latest Project
+[Thunderflix - SQL](https://github.com/felipemfb/thunderflix)<br/>
 [RISC-V CPU ISA - SystemVerilog](https://github.com/felipemfb/Projeto-RISC-V)<br/>
 [Spaceship Game - C](https://github.com/felipemfb/Jogo_IP)<br/>
-[Thunderflix - SQL](https://github.com/felipemfb/thunderflix)<br/>
 
 ## Connect with Me
  If you want to talk about any extra topic, let's connect on my other pages:
