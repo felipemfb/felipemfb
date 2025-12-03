@@ -84,7 +84,6 @@ Currently, I am in the 7th semester of my undergraduate degree, learning topics 
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">
-<img align = "center" alt = "html5" src ="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white">
 </div>
 
 ### DataOps
@@ -110,6 +109,7 @@ Currently, I am in the 7th semester of my undergraduate degree, learning topics 
 <div style="display: inline_block">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/RAYLIB-FFFFFF?style=for-the-badge&logo=raylib&logoColor=black">
+<img align = "center" alt = "html5" src ="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white">
 </div>
 
