@@ -89,10 +89,16 @@ Currently, I am in the 7th semester of my undergraduate degree, learning topics 
 
 ### DataOps
 
+#### SQL
+<div style="display: inline_block">
+<img align = "center" alt = "html5" src ="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+<img align = "center" alt = "html5" src ="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+</div>
+
+#### Data Science
 <div style="display: inline_block">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
-<img align = "center" alt = "html5" src ="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
