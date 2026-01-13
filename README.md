@@ -32,7 +32,7 @@ Currently, I am in the 7th semester of my undergraduate degree, learning topics 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=felipemfb&theme=dracula" width="49%" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);" />
 </div>
 
-
+<!--
 ## Programming Languages that I worked before
 <div style="display: inline_block">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
@@ -112,7 +112,7 @@ Currently, I am in the 7th semester of my undergraduate degree, learning topics 
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white">
 <img align = "center" alt = "html5" src ="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white">
 </div>
-
+-->
 </div>
 
 ## Latest Project
