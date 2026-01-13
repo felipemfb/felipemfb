@@ -7,7 +7,7 @@ Hi everyone! My name is Felipe Barreto and I am student of computer engineering 
 </div>
 
 ## About me
-Currently, I am in the 7th semester of my undergraduate degree, learning topics as machine learning, computer vision and software engineer. Also, I am developing my skills in other areas, for example...
+Currently, I am learning topics as machine learning, computer vision and software engineer. Also, I am developing my skills in other areas, for example...
 
 ## Languages that I speak
 <div style="display: inline_block">
