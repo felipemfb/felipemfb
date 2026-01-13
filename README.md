@@ -1,5 +1,5 @@
 # Hello World!👋
-Hi everyone! My name is Felipe Barreto and I am student of computer engineering in the Universidade Federal de Pernambuco - UFPE (Federal University of Pernambuco) and international student in the Aix-Marseille Université - AMU (Aix-Marseille University).
+Hi everyone! My name is Felipe Barreto and I am student of computer engineering at the Universidade Federal de Pernambuco - UFPE (Federal University of Pernambuco) and international student at the Aix-Marseille Université - AMU (Aix-Marseille University).
 
 <div style="display: flex; align-items: center; gap: 20px; ">
   <img style="width: 50%;" src="https://portal.cin.ufpe.br/wp-content/uploads/2020/07/Horizontal-Vermelho-Logotipo-CIn-UFPE.png">
@@ -7,7 +7,7 @@ Hi everyone! My name is Felipe Barreto and I am student of computer engineering 
 </div>
 
 ## About me
-Currently, I am in the 7th semester of my undergraduate degree, learning topics as machine learning, computer vision and virtual machines. Also, I am developing my skills in other areas, for example...
+Currently, I am in the 7th semester of my undergraduate degree, learning topics as machine learning, computer vision and software engineer. Also, I am developing my skills in other areas, for example...
 
 ## Languages that I speak
 <div style="display: inline_block">
