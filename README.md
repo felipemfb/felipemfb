@@ -117,7 +117,7 @@ Currently, I am learning topics as machine learning, computer vision and softwar
 
 ## Latest Project
 [Thunderflix - SQL](https://github.com/felipemfb/thunderflix)<br/>
-[RISC-V CPU ISA - SystemVerilog](https://github.com/felipemfb/Projeto-RISC-V)<br/>
+[Edge Detection - C++](https://github.com/felipemfb/Edge_Detection)<br/>
 [Spaceship Game - C](https://github.com/felipemfb/Jogo_IP)<br/>
 
 ## Connect with Me
