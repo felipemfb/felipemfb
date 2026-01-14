@@ -121,7 +121,7 @@ https://github.com/felipemfb/Virtualization_and_Containerization
 [Thunderflix - SQL](https://github.com/felipemfb/thunderflix)<br/>
 [Edge Detection - C++](https://github.com/felipemfb/Edge_Detection)<br/>
 [Spaceship Game - C](https://github.com/felipemfb/Jogo_IP)<br/>
-[Multi VMs + Docker project](https://github.com/felipemfb/Virtualization_and_Containerization - Docker, OracleVM and JavaScript)<br/>
+[Multi VMs + Docker project - Docker, OracleVM and JavaScript](https://github.com/felipemfb/Virtualization_and_Containerization)<br/>
 
 ## Connect with Me
  If you want to talk about any extra topic, let's connect on my other pages:
