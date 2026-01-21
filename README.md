@@ -13,7 +13,7 @@ Currently, I am learning topics as machine learning, computer vision and softwar
 <div style="display: inline_block">
 <img align = "center" alt = "html5" src ="https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/32/flag-portugal2x.png"> - Portuguese (native)
 <br/>
-<img align = "center" alt = "html5" src ="https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/32/flag-united-kingdom2x.png"> - English (IELTS B2)
+<img align = "center" alt = "html5" src ="https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/32/flag-united-kingdom2x.png"> - English (IELTS B2 and TOEIC B2)
 <br/>
 <img align = "center" alt = "html5" src ="https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/32/flag-france2x.png"> - French (DELF B1)
 <br/>
