@@ -115,8 +115,6 @@ Currently, I am learning topics as machine learning, computer vision and softwar
 -->
 </div>
 
-https://github.com/felipemfb/Virtualization_and_Containerization
-
 ## Latest Project
 [Thunderflix - SQL](https://github.com/felipemfb/thunderflix)<br/>
 [Edge Detection - C++](https://github.com/felipemfb/Edge_Detection)<br/>
