@@ -123,6 +123,7 @@ Currently, I am learning topics as machine learning, computer vision and softwar
 [Urban Traffic Speed Prediction with Random Forest - Python](https://github.com/felipemfb/Road_Traffic_Generation)<br/>
 [Solving the CIFAR-10 problem with MLP and CNN - Python](https://github.com/felipemfb/CIFAR-10_MODEL)<br/>
 [Voting with a robotic arm - C](https://github.com/felipemfb/Robotic_Arm)<br/>
+[CITi's Recruitment Process - React, Node and TypeScript](https://github.com/felipemfb/CITi_Recruitment_Process_Project)<br/>
 
 ## Connect with Me
  If you want to talk about any extra topic, let's connect on my other pages:
